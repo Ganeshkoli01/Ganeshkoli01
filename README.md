@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ganeshkoli01/Ganeshkoli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 🎓 I’m currently a<br>Computer Science Engineering (CSE) student | 3rd Year<br><br>👨‍💻 I’m currently working on<br>Room & Mess Finder Web Application (Mini/Major Project)<br><br>🤝 I’m looking to collaborate on<br>MERN Stack projects, Web Applications, and Student Projects<br><br>🧠 I’m looking for help with<br>Data Structures & Algorithms (C++), Backend Development, and Project Optimization<br><br>🌱 I’m currently learning<br>C++ | Data Structures & Algorithms | MERN Stack<br><br>💬 Ask me about<br>C++, DSA basics, MERN projects, Web Development, Student Project Ideas<br><br>⚡ Fun fact<br>I enjoy solving coding problems and turning real-life problems into web apps 🚀
 
 
@@ -24,10 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Ganeshkoli01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
