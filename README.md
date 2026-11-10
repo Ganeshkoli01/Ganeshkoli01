@@ -1,54 +1,154 @@
+```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E7D32&height=200&section=header&text=Hi%20There!%20I'm%20Ganesh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full-Stack+MERN+Developer;Turning+Ideas+into+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Data+Analytics+Intern;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Transforming+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG"/>
 </a>
 
 </div>
 
 <br>
 
-## 💫 About Me:
+## 💫 About Me
 
-🎓 &nbsp;I'm currently a **Computer Science Engineering (CSE) student** | 4th Year &nbsp;·&nbsp; DYPCET, Kolhapur
+🎓 &nbsp;I'm a **Computer Science Engineering Student (2023–2027)** at DYPCET, Kolhapur.
 
-👨‍💻 &nbsp;I'm currently working on **Room and Mess Finder Web Application** *(Major Project)*
+📊 &nbsp;Currently working as a **Data Analytics Intern at Skill Nexis and Apex Planet Software Pvt. Ltd.**
 
-🤝 &nbsp;I'm looking to collaborate on **MERN Stack projects, Web Applications, and Student Projects**
+🐍 &nbsp;I'm passionate about **Data Analytics, Data Visualization, and Business Intelligence**.
 
-🧠 &nbsp;I'm looking for help with **Data Structures & Algorithms (C++), Backend Development, and Project Optimization**
+🌱 &nbsp;Currently learning **Python, SQL, Excel, Power BI, and Exploratory Data Analysis (EDA)**.
 
-🌱 &nbsp;I'm currently learning **C++ &nbsp;|&nbsp; Data Structures & Algorithms &nbsp;|&nbsp; MERN Stack**
+🔍 &nbsp;I enjoy transforming raw datasets into meaningful insights and actionable business decisions.
 
-💬 &nbsp;Ask me about **C++, DSA basics, MERN projects, Web Development, Student Project Ideas**
+💻 &nbsp;Working on **GK Grocery Store – Smart POS Management & Business Analytics System**.
 
-⚡ &nbsp;Fun fact: I enjoy solving coding problems and turning real-life problems into web apps 🚀
+🤝 &nbsp;Looking to collaborate on Data Analytics, Business Intelligence, and Python projects.
+
+💬 &nbsp;Ask me about Python, SQL, Pandas, NumPy, Excel, Power BI, and Data Visualization.
+
+⚡ &nbsp;Fun Fact: I love exploring data, discovering hidden patterns, and solving real-world problems through analytics.
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🥛 GK Dairy Management<br>and E-Commerce System</h3>
-      <p>Full-stack MERN platform for dairy collection, procurement, and inventory tracking with JWT auth and role-based access control.</p>
-      <a href="https://gkdairy.online"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏠 Room and Mess Finder</h3>
-      <p>Location-based marketplace built with React, TypeScript, Supabase/PostgreSQL, and the Google Gemini API.</p>
-      <a href="https://room-mess-finder.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📋 Placement Task<br>Tracker Web App</h3>
-      <p>MERN stack app for tracking daily study routines, progress metrics, and study streaks.</p>
-      <a href="https://time-table-theta-gray.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🛒 GK Grocery Store – Smart POS Management & Business Analytics System
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
+
+A retail management and business analytics application designed to simplify grocery store operations and provide meaningful business insights.
+
+**Key Features:**
+
+- 🧾 Smart POS billing system with instant PDF invoice generation.
+- 📦 Inventory and stock management.
+- 📊 Interactive KPI dashboards using Plotly.
+- 💰 Gross Profit, Net Profit, and COGS analysis.
+- 📈 Daily, weekly, and monthly business performance reporting.
+- 📑 Automated Excel reports with multiple analytical sheets.
+- 🔗 Star Schema datasets for Power BI integration.
+- 🌐 Multilingual support (English, Marathi, Hindi).
+- 🔐 Role-based authentication.
+
+**Technologies:** Python, Streamlit, SQLite, Pandas, Plotly, ReportLab, OpenPyXL, Power BI.
+
+<br>
+
+## 💼 Internship Experience
+
+### 📊 Data Analytics Intern – Skill Nexis
+**Status:** Ongoing
+
+- Collect, clean, and preprocess datasets using Python and Excel.
+- Perform Exploratory Data Analysis (EDA).
+- Write SQL queries for data extraction and aggregation.
+- Create charts and dashboards to communicate analytical findings.
+
+### 📈 Data Analytics Intern – Apex Planet Software Pvt. Ltd.
+**Status:** Ongoing
+
+- Analyze structured datasets to generate business insights.
+- Perform data cleaning and transformation using Pandas and NumPy.
+- Calculate summary statistics and identify trends.
+- Create visual reports and dashboards.
+- Document analytical findings and methodologies.
+
+<br>
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🐍 Python Libraries
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 📊 Data Analytics & Visualization
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br>
+
+## 📜 Certifications
+
+🏅 **Deloitte Australia – Data Analytics Job Simulation** | Forage | June 2026
+
+🏅 **Introduction to NumPy** | Simplilearn | August 2026
+
+🏅 **30 Day Python Using AI Program** | AI for Techies | October 2025
+
+<br>
+
+## 🏆 Achievements
+
+🏐 **National-Level Throwball Player – 2022**
+
+Represented the Maharashtra State Team in national-level throwball competitions.
+
+<br>
+
+## 🎓 Education
+
+**Bachelor of Technology – Computer Science and Engineering**
+
+D. Y. Patil College of Engineering and Technology, Kolhapur
+
+2023 – 2027 | CGPA: 7.7
 
 <br>
 
@@ -56,55 +156,39 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ganesh01_80.95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshkoli0149/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshkoli0149@gmail.com)
+<a href="https://www.linkedin.com/in/ganeshkoli0149/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ganeshkoli01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ganesh01_80.95">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ganeshkoli0149@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br>
 
-## 💻 Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<br>
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ganeshkoli01&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkoli01&theme=radical&hide_border=true&layout=compact" width="49%"/>
 
+<br><br>
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=Ganeshkoli01&theme=radical&hide_border=true" width="70%"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshkoli01&theme=redical&hide_border=true" width="100%"/>
 
@@ -114,10 +198,8 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Ganeshkoli01&icon=9&color=6)](https://visitcount.itsvg.in)
+### 💡 Turning Data into Decisions, One Insight at a Time! 📊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1F3864&height=100&section=footer" width="100%"/>
+![Profile Views](https://visitcount.itsvg.in/api?id=Ganeshkoli01&icon=9&color=6)
 
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type
