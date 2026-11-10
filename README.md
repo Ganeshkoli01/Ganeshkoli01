@@ -202,4 +202,7 @@ D. Y. Patil College of Engineering and Technology, Kolhapur
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Ganeshkoli01&icon=9&color=6)
 
-<img src="https://capsule-render.vercel.app/api?type
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1F3864&height=100&section=footer" width="100%"/>
+
+</div>
+```
