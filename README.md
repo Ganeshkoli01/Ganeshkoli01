@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E7D32&height=200&section=header&text=Hi%20There!%20I'm%20Ganesh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
@@ -17,13 +16,13 @@
 
 📊 &nbsp;Currently working as a **Data Analytics Intern at Skill Nexis and Apex Planet Software Pvt. Ltd.**
 
-🐍 &nbsp;I'm passionate about **Data Analytics, Data Visualization, and Business Intelligence**.
+🐍 &nbsp;Passionate about **Data Analytics, Data Visualization, and Business Intelligence**.
 
-🌱 &nbsp;Currently learning **Python, SQL, Excel, Power BI, and Exploratory Data Analysis (EDA)**.
+🌱 &nbsp;Currently learning **Python | SQL | Excel | Power BI | Exploratory Data Analysis (EDA)**.
 
-🔍 &nbsp;I enjoy transforming raw datasets into meaningful insights and actionable business decisions.
+🔍 &nbsp;I enjoy transforming raw data into meaningful insights and actionable business decisions.
 
-💻 &nbsp;Working on **GK Grocery Store – Smart POS Management & Business Analytics System**.
+💻 &nbsp;Currently working on **GK Grocery Store – Smart POS Management & Business Analytics System**.
 
 🤝 &nbsp;Looking to collaborate on Data Analytics, Business Intelligence, and Python projects.
 
@@ -39,10 +38,17 @@
 
 ### 🛒 GK Grocery Store – Smart POS Management & Business Analytics System
 
+<a href="https://gk-grocery-store.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 </div>
 
@@ -54,7 +60,7 @@ A retail management and business analytics application designed to simplify groc
 - 📦 Inventory and stock management.
 - 📊 Interactive KPI dashboards using Plotly.
 - 💰 Gross Profit, Net Profit, and COGS analysis.
-- 📈 Daily, weekly, and monthly business performance reporting.
+- 📈 Business performance reporting.
 - 📑 Automated Excel reports with multiple analytical sheets.
 - 🔗 Star Schema datasets for Power BI integration.
 - 🌐 Multilingual support (English, Marathi, Hindi).
@@ -67,15 +73,18 @@ A retail management and business analytics application designed to simplify groc
 ## 💼 Internship Experience
 
 ### 📊 Data Analytics Intern – Skill Nexis
-**Status:** Ongoing
+
+**Status: Ongoing**
 
 - Collect, clean, and preprocess datasets using Python and Excel.
 - Perform Exploratory Data Analysis (EDA).
 - Write SQL queries for data extraction and aggregation.
 - Create charts and dashboards to communicate analytical findings.
+- Identify trends, patterns, and anomalies in datasets.
 
 ### 📈 Data Analytics Intern – Apex Planet Software Pvt. Ltd.
-**Status:** Ongoing
+
+**Status: Ongoing**
 
 - Analyze structured datasets to generate business insights.
 - Perform data cleaning and transformation using Pandas and NumPy.
@@ -91,14 +100,14 @@ A retail management and business analytics application designed to simplify groc
 
 ### 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🐍 Python Libraries
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### 📊 Data Analytics & Visualization
@@ -109,16 +118,11 @@ A retail management and business analytics application designed to simplify groc
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 
 ### ⚙️ Tools & Platforms
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode" />
 
 </div>
 
@@ -126,19 +130,31 @@ A retail management and business analytics application designed to simplify groc
 
 ## 📜 Certifications
 
-🏅 **Deloitte Australia – Data Analytics Job Simulation** | Forage | June 2026
+🏅 **Deloitte Australia – Data Analytics Job Simulation**
 
-🏅 **Introduction to NumPy** | Simplilearn | August 2026
+Forage | June 2026
 
-🏅 **30 Day Python Using AI Program** | AI for Techies | October 2025
+🏅 **Introduction to NumPy**
+
+Simplilearn | August 2026
+
+🏅 **30 Day Python Using AI Program**
+
+AI for Techies | October 2025
 
 <br>
 
-## 🏆 Achievements
+## 🏆 Awards & Achievements
 
-🏐 **National-Level Throwball Player – 2022**
+<div align="center">
+
+### 🏐 National-Level Throwball Player
+
+**2022**
 
 Represented the Maharashtra State Team in national-level throwball competitions.
+
+</div>
 
 <br>
 
@@ -146,9 +162,19 @@ Represented the Maharashtra State Team in national-level throwball competitions.
 
 **Bachelor of Technology – Computer Science and Engineering**
 
-D. Y. Patil College of Engineering and Technology, Kolhapur
+D. Y. Patil College of Engineering and Technology (DYPCET), Kolhapur
 
-2023 – 2027 | CGPA: 7.7
+📅 2023 – 2027
+
+🎯 CGPA: 7.7
+
+**Higher Secondary Certificate (HSC)**
+
+Swa. Sai. M. G. Patil Adarsh Vidyaniketan and Junior College, Minche
+
+📅 2022 – 2023
+
+📊 Percentage: 63.17%
 
 <br>
 
@@ -171,6 +197,10 @@ D. Y. Patil College of Engineering and Technology, Kolhapur
 <a href="mailto:ganeshkoli0149@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+📍 Kolhapur, Maharashtra, India
 
 </div>
 
@@ -200,9 +230,8 @@ D. Y. Patil College of Engineering and Technology, Kolhapur
 
 ### 💡 Turning Data into Decisions, One Insight at a Time! 📊
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Ganeshkoli01&icon=9&color=6)
+<img src="https://visitcount.itsvg.in/api?id=Ganeshkoli01&icon=9&color=6"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1F3864&height=100&section=footer" width="100%"/>
 
 </div>
-```
